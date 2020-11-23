@@ -1,0 +1,6 @@
+2652, 0, 0, A, Bart
+2652, 0, 1, B, BertSumExtAbs
+3645, 1, 0, C, fast-abs-rl
+3645, 1, 1, D, opennmt-pgcopy
+1049, 2, 0, E, opennmt-pg
+1049, 2, 1, F, T5
